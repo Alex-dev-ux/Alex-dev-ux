@@ -3,7 +3,7 @@
 ✨ _special_ ✨ repository 
 
 - 🔭 I’m currently working on Beu.Inc.
-- 🌱 I’m currently learning Software Development.
+- 🌱 I’m currently learning Software Development in a self-taught way.
 - 👯 I’m looking to collaborate on in the area assigned to me.
 - 🤔 I’m looking for help with AI.
 - 💬 Ask me about anything you want, I'm like ChatGPT for you.
