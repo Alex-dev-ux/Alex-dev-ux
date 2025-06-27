@@ -1,6 +1,6 @@
 ## Hi there People 👋
 
-<!--
+
 **Alex-dev-ux/Alex-dev-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by any of the means mentioned here.
 - 😄 Pronouns: I, You, He/She, We, You All, and They.
 - ⚡ Fun fact: Where? 👀
--->
